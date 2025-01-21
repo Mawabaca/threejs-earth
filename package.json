@@ -1,0 +1,14 @@
+{
+  "name": "threejs-earth",
+  "version": "1.0.0",
+  "description": "Watch the tutorial on [YouTube](https://youtu.be/FntV9iEJ0tU)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.7"
+  }
+}
